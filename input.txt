@@ -1,0 +1,8 @@
+banana
+apple
+zebra
+cat
+dog
+elephant
+fish
+giraffe 
